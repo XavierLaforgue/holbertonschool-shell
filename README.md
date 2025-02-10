@@ -1,1 +1,1 @@
-First project using git locally. test
+First project using git locally
